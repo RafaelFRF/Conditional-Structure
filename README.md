@@ -1,2 +1,2 @@
-# Conditional-Structure
+# VisualG-Conditional-Structure
 My study exercises
